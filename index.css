@@ -1,0 +1,17 @@
+
+table#tabelaExcel {
+    border-collapse: collapse; /* CSS2 */
+}
+
+table#tabelaExcel td {
+    border: 1px solid black;
+	width: 100px;
+}
+
+table#tabelaExcel tr {
+  height: 50px;
+}
+
+
+
+ 
